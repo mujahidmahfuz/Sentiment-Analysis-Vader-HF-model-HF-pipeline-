@@ -69,6 +69,5 @@ pie showData
     "Neutral" : 21
     "Negative" : 26
 
-git clone https://github.com/mujahidmahfuz/sentiment-analysis-project.git
-cd sentiment-analysis-project
+
 

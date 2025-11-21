@@ -1,6 +1,3 @@
-# Sentiment-Analysis-Vader-HF-model-HF-pipeline-
-
-
 # 🚀 Sentiment Analysis with Hugging Face Pre-Trained Model
 
 ![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-blue)
